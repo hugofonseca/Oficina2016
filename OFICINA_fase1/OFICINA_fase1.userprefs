@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\OFICINA_fase1\Assets\handBehaviourScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\handBehaviourScript.cs">
     <Files>
-      <File FileName="..\..\OFICINA_fase1\Assets\handBehaviourScript.cs" Line="27" Column="4" />
-      <File FileName="..\..\OFICINA_fase1\Assets\Standard Assets\2D\Scripts\CameraFollow.cs" Line="22" Column="1" />
+      <File FileName="..\..\..\OFICINA_fase1\Assets\handBehaviourScript.cs" Line="26" Column="47" />
+      <File FileName="..\..\..\OFICINA_fase1\Assets\CompleteCameraController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\OFICINA_fase1\Assets\Scipt.cs" Line="1" Column="1" />
+      <File FileName="Assets\handBehaviourScript.cs" Line="36" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

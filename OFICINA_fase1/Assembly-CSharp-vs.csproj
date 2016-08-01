@@ -46,7 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Parado.cs" />
+     <Compile Include="Assets\CompleteCameraController.cs" />
+     <Compile Include="Assets\Scipt.cs" />
      <Compile Include="Assets\handBehaviourScript.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
